@@ -2,7 +2,7 @@
 
 - 🎓 Recently graduated from Le Wagon in Brussels (batch #1110)
 - 🔭 I’m currently working on Upgreen, a webserve that provides green solutions
-- 🌱 I’m willing to learn about React.js and JavaScript
+- 🌱 I’m willing to learn more about JavaScript and React.js
 - 📫 How to reach me: junior69.mj@gmail.com
 
 <h3 align="left">Programming Languages:</h3>
